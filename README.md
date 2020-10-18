@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi! I'm Victoria Iashchuk 👋
-I'm a front-end developer from Warsaw, Poland
+# Hi! I'm Ayoub Khan 👋
+I'm a front-end developer from Faisalabad, Punjab, Pakistan 🇵🇰
 
 - 💖 I love Vue.js and pixel perfect HTML/CSS
-- 🌱 I'm currently learning React and Laravel
+- 🌱 I'm currently learning Laravel and NodeJS
 
 🚀 My skills:
 - HTML5, CSS3 (PostCSS/SASS) ⭐️⭐️⭐️⭐️⭐️
-- Tailwind CSS, Bootstrap    ⭐️⭐️⭐️⭐️⭐️
+- Material Design, Bootstrap ⭐️⭐️⭐️⭐️⭐️
 - Vanilla JavaScript, jQuery ⭐️⭐️⭐️⭐️⭐️
-- Vue.js, Nuxt (SSR), Vuex   ⭐️⭐️⭐️⭐️
-- Webpack, Yarn, Gulp        ⭐️⭐️⭐️⭐️⭐️
-- Jest, Cypress              ⭐️⭐️⭐️
-- React, Gatsby              ⭐️⭐️⭐️
+- Vue.js                     ⭐️⭐️⭐️⭐️✰
+- ReactJS                    ⭐️⭐️⭐️⭐️⭐️
+- Webpack, Gulp              ⭐️⭐️⭐️⭐️⭐️
+- React, Gatsby              ⭐️⭐️⭐️✰✰
