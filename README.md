@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **blogging and Laravel**
 
-- 👨‍💻 All of my projects are available at [https://ayoubkhan.netlify.app/](https://ayoubkhan.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.mayoubkhan.com/](https://www.mayoubkhan.com/)
 
 - 💬 Ask me about **reactjs, vuejs, angularjs**
 
 - 📫 How to reach me **ayoubkhan558@hotmail.com**
 
-- 📄 Know about my experiences [https://ayoubkhan.netlify.app/](https://ayoubkhan.netlify.app/)
+- 📄 Know about my experiences [https://www.mayoubkhan.com/](https://www.mayoubkhan.com/)
 
 - ⚡ Fun fact **I think I am sensitive :)**
 
