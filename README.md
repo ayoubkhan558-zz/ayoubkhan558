@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.mayoubkhan.com/work](https://www.mayoubkhan.com/work)
 
-- 📝 I regularly write articles on [https://www.mayoubkhan.com/](https://www.mayoubkhan.com/)
+- 📝 I regularly write articles on [http://thebetacoders.com/](< The Beta Coders />)
 
 - 💬 Ask me about **reactjs, vuejs, angularjs**
 
